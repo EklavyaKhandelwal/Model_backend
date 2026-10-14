@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+gunicorn
+pydantic
+pandas
+scikit-learn
+joblib
+python-dotenv
+groq
+python-multipart
+slowapi
+openai
